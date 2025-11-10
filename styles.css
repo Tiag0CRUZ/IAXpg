@@ -28,20 +28,20 @@ body {
 }
 
 .hero-logo {
-    width: 2400 px;
+    width: 2400px;
     height: auto;
     transition: transform 0.4s ease;
 }
 
 .header-top {
     background-color: rgba(0, 188, 212, 0.9);
-    padding: 12px 0;
+    padding: 20px 0;
     text-align: left;
 }
 
 .tagline {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 600;
     letter-spacing: 0.5px;
 }
